@@ -1,0 +1,4 @@
+1.git add -A 提交所有修改的文件到缓存区
+2.git commit -m "1" -m注释
+3.git pull 把线上远程的代码先更新下来防止冲突
+4.git push 把你提交的代码推到GitHub
